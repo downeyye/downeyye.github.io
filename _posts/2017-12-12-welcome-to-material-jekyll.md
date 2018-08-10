@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "欢迎来到 Jekyll!"
 date:   2017-12-04 21:15:05 +0000
 image: /assets/images/twoscreen.jpg
 ---
