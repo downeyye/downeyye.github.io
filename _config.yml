@@ -1,7 +1,7 @@
 title: 欢迎来到！送你一顶帽子
 name: 草帽downeyxl
 email: 736202548@qq.com
-description: 这是我的第一个博客，情多多指教！！
+description: 这是我的第一个博客，请多多指教！！
 
 baseurl: "/downeyyeblog"
 # baseurl: "/blog"
@@ -25,7 +25,7 @@ project_two_icon: photo_camera
 
 project_three: 剧情
 project_three_description: Describe your project!
-project_three_url: www.baidu.com
+project_three_url: https://www.baidu.com
 project_three_icon: hotel
 
 
