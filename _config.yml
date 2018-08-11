@@ -11,13 +11,13 @@ paginate: 9
 paginate_path: "downeyyepage:num"
 gems: [jekyll-paginate]
 links:
-  - name:         首页
+  - name:         HI这是全部
     url:          /
     external:     false
-  - name:         阅读与技巧
+  - name:         HI这是电影
     url:          /book
     external:     false
-  - name:         更新
+  - name:         HI这里有更新
     url:          /archives
     external:     false
   - name:         关于
