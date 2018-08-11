@@ -1,8 +1,8 @@
 ---
 layout: blog
-title: 关于LiberXue
-description: "关于LiberXue博客角落自述"
-data: 2017-08-05 09:19:11
+title: 关于downeyye 草帽
+description: "关于downeyye博客角落自述"
+data: 2018-08-11 09:19:11
 tags: 
 - LiberXue
 - 简述
@@ -186,9 +186,5 @@ ID|项 目 名 称| 开 发 语 言| 功 能 简 述| 框架| 是否上线|
 ******
  
 你可以通过以下几种方式联系到我。
-
-* [提交Issues](https://github.com/Liberxue/liberxue.github.io/issues)
  
-* [发邮件](mailto:liberxue@gmail.com)
- 
-* [Twitter](https://twitter.com/liberxue).
+* [发邮件](mailto:736202548@qq.com).
