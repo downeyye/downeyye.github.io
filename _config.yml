@@ -23,7 +23,7 @@ links:
   - name:         剧情
     url:          /archives
     external:     false
-  - name:         动漫
+  - name:         标签
     url:          /tags
     external:     false
   - name:         关于
