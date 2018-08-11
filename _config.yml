@@ -3,12 +3,12 @@ title:            "我要送你一顶帽子"
 description:      "HI 电影的世界、书中之屋、进入二次元"
 url:              https://downeyye.github.io # 域名
 signoff:          "downeyye" # Your name
-facebook_appid:   #liberxue
+facebook_appid:   #downeyye
 google_analytics: UA-101222464-1
 share:            true 
 # 分页
 paginate: 15
-paginate_path: "liberxuepage:num"
+paginate_path: "downeyyepage:num"
 gems: [jekyll-paginate]
 links:
   - name:         首页
@@ -17,14 +17,8 @@ links:
   - name:         技巧
     url:          /book
     external:     false
-  - name:         电影动漫
-    url:          /road
-    external:     false
-  - name:         归档
+  - name:         更新
     url:          /archives
-    external:     false
-  - name:         标签
-    url:          /tags
     external:     false
   - name:         关于
     url:          /about
