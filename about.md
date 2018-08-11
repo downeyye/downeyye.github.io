@@ -1,8 +1,8 @@
 ---
 layout: blog
 book: true
-title: 关于downeyye 草帽
-description: "关于downeyye博客角落自述"
+title: 关于downeyye草帽
+description: "关于downeyye博客的自述"
 data: 2018-08-11 09:19:11
 tags: 
 - 平面设计
