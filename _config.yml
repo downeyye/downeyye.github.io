@@ -15,7 +15,7 @@ links:
     url:          /
     external:     false
   - name:         科幻
-    url:          /book1
+    url:          /book
     external:     false
   - name:         悬疑
     url:          /road
