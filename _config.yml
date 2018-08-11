@@ -17,6 +17,9 @@ links:
   - name:         HI这是电影
     url:          /book
     external:     false
+  - name:         HI这是动漫
+    url:          /road
+    external:     false
   - name:         HI这里有更新
     url:          /archives
     external:     false
