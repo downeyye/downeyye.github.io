@@ -1,5 +1,6 @@
 ---
 layout: blog
+book: true
 title: 关于downeyye 草帽
 description: "关于downeyye博客角落自述"
 data: 2018-08-11 09:19:11
