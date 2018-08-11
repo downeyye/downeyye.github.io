@@ -7,14 +7,14 @@ facebook_appid:   #downeyye
 google_analytics: UA-101222464-1
 share:            true 
 # 分页
-paginate: 15
+paginate: 9
 paginate_path: "downeyyepage:num"
 gems: [jekyll-paginate]
 links:
   - name:         首页
     url:          /
     external:     false
-  - name:         技巧
+  - name:         阅读与技巧
     url:          /book
     external:     false
   - name:         更新
