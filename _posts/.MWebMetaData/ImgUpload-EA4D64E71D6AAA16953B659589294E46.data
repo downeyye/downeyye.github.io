@@ -6,6 +6,12 @@
 	<array>
 		<dict>
 			<key>localURL</key>
+			<string>media/2017-1-1.jpg</string>
+			<key>remoteURL</key>
+			<string>http://www.downeyye.cn/2017-1-1.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
 			<string>media/IMG_8516.jpg</string>
 			<key>remoteURL</key>
 			<string>http://www.downeyye.cn/IMG_8516.jpg</string>
